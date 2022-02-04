@@ -1,4 +1,4 @@
-## Olá, sou Dayane Veloso: 
+## <h1 style= "color:#7720F7" >Olá, sou Dayane Veloso:</h1>
 💻 Atualmente estagiária General Support <br>
 🌱 Estudante Front-end e Análise e Desenvolvimento de Sistemas <br>
 🌵 Nordestina <br>
