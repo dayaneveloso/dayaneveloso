@@ -1,10 +1,14 @@
-## <h1 style= "color:#7720F7" >Olá, sou Dayane Veloso:</h1>
+## <h1><em> Olá, sou Dayane Veloso:</em></h1>
 💻 Atualmente estagiária General Support <br>
 🌱 Estudante Front-end e Análise e Desenvolvimento de Sistemas <br>
 🌵 Nordestina <br>
 🤗 Ela/dela <br>
-🎨 Faço algumas artes em Pixel <br>
+🎨 Faço algumas artes em Pixel (clique na imagem abaixo para acessar minha página de desenhos no instagram xD) <br>
 
+<div align="left">
+  <a href="https://www.instagram.com/art3.an/" target="_blank" ><img height="284em" src="https://64.media.tumblr.com/0bed1cb436f2ba82a32f2b78ca8eaf4d/5b4c30c69697ac97-f1/s540x810/ea16ccdef7d242fce9e49a10e5c0bce100931e8f.jpg" target="_blank" ></a>
+</div>
+<br>
 <div align="left">
   <a href="https://github.com/dayaneveloso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayaneveloso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
