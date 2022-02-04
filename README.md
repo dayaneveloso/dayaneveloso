@@ -1,9 +1,9 @@
 ## Olá, sou Dayane Veloso: 
-💻 Atualmente estagiária General Support
-🌱 Estudante Front-end e Análise e Desenvolvimento de Sistemas
-🌵 Nordestina
-🤗 Ela/dela
-🎨 Faço algumas artes em Pixel
+💻 Atualmente estagiária General Support <br>
+🌱 Estudante Front-end e Análise e Desenvolvimento de Sistemas <br>
+🌵 Nordestina <br>
+🤗 Ela/dela <br>
+🎨 Faço algumas artes em Pixel <br>
 
 <div align="center">
   <a href="https://github.com/dayaneveloso">
