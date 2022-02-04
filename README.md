@@ -12,7 +12,7 @@
 <div align="left">
   <a href="https://github.com/dayaneveloso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayaneveloso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ 
 </div>
 
 <div style="display: inline_block"><br>
